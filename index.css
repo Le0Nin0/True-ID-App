@@ -448,6 +448,12 @@
 }
 
 /*Iframe Figma*/
+.iframe-container{
+  style="border: 0px;"
+  height: 70vw;
+  width: auto;
+}
+
 .header--leftColumn--kKtFs,
 .header--sideColumn--HfeCE,
 .header--column--UnHDe {
