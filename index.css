@@ -446,3 +446,10 @@
     line-height: 28px;
   }
 }
+
+
+.header--leftColumn--kKtFs,
+.header--sideColumn--HfeCE,
+.header--column--UnHDe {
+  display: none;
+}
