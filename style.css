@@ -924,3 +924,25 @@
   background-color: black;
   margin: 5px 0;
 }
+
+
+/*Menue untereinander*/
+@media only screen and (max-width: 768px) {
+  .navbar-desktop-menu {
+      display: none;
+  }
+
+  .navbar-mobile-menu {
+      display: block;
+  }
+
+  .navbar-mobile-menu .nav-links-links {
+      display: block;
+  }
+
+  .navbar-mobile-menu .nav-links-links a {
+      display: block;
+      padding: 10px 20px;
+      text-align: center;
+  }
+}
