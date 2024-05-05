@@ -918,3 +918,9 @@
     line-height: 28px;
   }
 }
+.navbar-burger-menu .line {
+  width: 30px;
+  height: 3px;
+  background-color: black;
+  margin: 5px 0;
+}
